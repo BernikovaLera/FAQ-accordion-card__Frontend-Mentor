@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FAQ-accordion-card__Frontend-Mentor/static/css/main.ef4599e4.css",
+    "main.js": "/FAQ-accordion-card__Frontend-Mentor/static/js/main.69660003.js",
+    "static/media/illustration-woman-online-mobile.svg": "/FAQ-accordion-card__Frontend-Mentor/static/media/illustration-woman-online-mobile.fe928f9c476ef6d332672b3ab38268fd.svg",
+    "static/media/illustration-woman-online-desktop.svg": "/FAQ-accordion-card__Frontend-Mentor/static/media/illustration-woman-online-desktop.843eb114c7213a596ee246bf87f27008.svg",
+    "index.html": "/FAQ-accordion-card__Frontend-Mentor/index.html",
+    "static/media/icon-arrow-down.svg": "/FAQ-accordion-card__Frontend-Mentor/static/media/icon-arrow-down.852fa301a0e795e07c5966b1c156025f.svg",
+    "main.ef4599e4.css.map": "/FAQ-accordion-card__Frontend-Mentor/static/css/main.ef4599e4.css.map",
+    "main.69660003.js.map": "/FAQ-accordion-card__Frontend-Mentor/static/js/main.69660003.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef4599e4.css",
+    "static/js/main.69660003.js"
+  ]
+}
