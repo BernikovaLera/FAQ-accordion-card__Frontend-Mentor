@@ -1,5 +1,7 @@
 # Frontend Mentor - FAQ accordion card solution
 
+![Design preview for the FAQ accordion card coding challenge](./design/desktop-preview.jpg)
+
 This is a solution to the [FAQ accordion card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents 
@@ -7,7 +9,6 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Where to find everything](#where-to-find-everything)
-  - [Screenshot](#screenshot)
   - [Built with](#built-with)
 
 
@@ -39,10 +40,6 @@ If you would like the design files (we provide Sketch & Figma versions) to inspe
 You will find all the required assets in the `/images` folder. The assets are already optimized.
 
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
-
-### Screenshot
-
-![Design preview for the FAQ accordion card coding challenge](./design/desktop-preview.jpg)
 
 ### Built with
 
